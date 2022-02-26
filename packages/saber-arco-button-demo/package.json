@@ -38,5 +38,9 @@
   "files": [
     "dist",
     "docs"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "",
+    "access": "public"
+  }
 }

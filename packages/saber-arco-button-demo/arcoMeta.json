@@ -1,0 +1,24 @@
+{
+  "name": "@dangojs/saber-arco-button-demo",
+  "title": "saber-arco-button-demo",
+  "description": "测试 Monorepo",
+  "type": "vue-component",
+  "category": [
+    "数据展示"
+  ],
+  "group": 73,
+  "homepage": "",
+  "repository": "",
+  "author": "Saber-Kurama",
+  "screenshot": "",
+  "package": {
+    "name": "@dangojs/saber-arco-button-demo",
+    "version": "latest",
+    "type": "npm",
+    "registry": "",
+    "peerDependencies": [
+      "vue"
+    ]
+  },
+  "metaUpdateTime": 1645973049859
+}

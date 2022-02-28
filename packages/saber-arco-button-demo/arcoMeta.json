@@ -17,8 +17,9 @@
     "type": "npm",
     "registry": "",
     "peerDependencies": [
+      "@arco-design/web-vue",
       "vue"
     ]
   },
-  "metaUpdateTime": 1645973049859
+  "metaUpdateTime": 1646039022913
 }

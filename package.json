@@ -69,7 +69,10 @@
     "typescript": "^4.2.4",
     "vue": "^3.1.0",
     "vue-loader": "^16.2.0",
-    "yarn": "^1.22.10"
+    "yarn": "^1.22.10",
+    "arco-cli": "^1.26.0",
+    "arco-cli-dev-utils": "^1.0.0",
+    "arco-cli-sync": "^1.12.2"
   },
   "license": "MIT"
 }

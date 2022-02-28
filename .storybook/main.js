@@ -1,7 +1,13 @@
+/*
+ * @Author: saber
+ * @Date: 2022-02-28 10:36:27
+ * @LastEditTime: 2022-02-28 10:58:57
+ * @LastEditors: saber
+ * @Description: 
+ */
 const path = require('path');
 const glob = require('glob');
 const fs = require('fs-extra');
-
 const packagePaths = glob.sync('packages/*');
 
 const lessRegex = /\.less$/;
